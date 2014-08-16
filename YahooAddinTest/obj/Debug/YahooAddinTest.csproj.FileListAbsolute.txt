@@ -1,0 +1,13 @@
+C:\Dev\Addin\YahooAddin\YahooAddinTest\obj\Debug\YahooAddinTest.csprojResolveAssemblyReference.cache
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.pdb
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\nunit.framework.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\nunit.mocks.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddin.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddin.pdb
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\nunit.framework.xml
+C:\Dev\Addin\YahooAddin\YahooAddinTest\obj\Debug\YahooAddinTest.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\obj\Debug\YahooAddinTest.pdb
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\Newtonsoft.Json.xml

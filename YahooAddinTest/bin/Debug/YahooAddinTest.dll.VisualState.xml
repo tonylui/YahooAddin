@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1014]C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.dll</TopNode>
+  <SelectedNode>[0-1011]YahooAddinTest.Utils.StringUtilsTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1014]C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1015]YahooAddinTest" Expanded="true" />
+    <Node UniqueName="[0-1016]YahooAddinTest.Finance" Expanded="true" />
+    <Node UniqueName="[0-1000]YahooAddinTest.Finance.FinancialQuoteJObjectTransformerTest" Expanded="true" />
+    <Node UniqueName="[0-1003]YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest" Expanded="true" />
+    <Node UniqueName="[0-1017]YahooAddinTest.Utils" Expanded="true" />
+    <Node UniqueName="[0-1011]YahooAddinTest.Utils.StringUtilsTest" Expanded="true" />
+  </Nodes>
+</VisualState>

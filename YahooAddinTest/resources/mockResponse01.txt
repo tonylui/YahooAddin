@@ -1,0 +1,43 @@
+﻿{
+ "query": {
+  "count": 2,
+  "created": "2014-07-26T17:00:06Z",
+  "lang": "en-US",
+  "results": {
+   "quote": [
+    {
+     "symbol": "0005.HK",
+     "AverageDailyVolume": "10959700",
+     "Change": "+0.95",
+     "DaysLow": "81.10",
+     "DaysHigh": "81.80",
+     "YearLow": "75.75",
+     "YearHigh": "89.75",
+     "MarketCapitalization": "1.560T",
+     "LastTradePriceOnly": "81.70",
+     "DaysRange": "81.10 - 81.80",
+     "Name": "HSBC HOLDINGS",
+     "Symbol": "0005.HK",
+     "Volume": "35220120",
+     "StockExchange": "HKSE"
+    },
+    {
+     "symbol": "2800.HK",
+     "AverageDailyVolume": "21623600",
+     "Change": "+0.15",
+     "DaysLow": "24.75",
+     "DaysHigh": "24.95",
+     "YearLow": "21.35",
+     "YearHigh": "24.95",
+     "MarketCapitalization": null,
+     "LastTradePriceOnly": "24.95",
+     "DaysRange": "24.75 - 24.95",
+     "Name": "TRACKER FUND",
+     "Symbol": "2800.HK",
+     "Volume": "41488240",
+     "StockExchange": "HKSE"
+    }
+   ]
+  }
+ }
+}

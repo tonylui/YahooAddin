@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.dll" total="11" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-27" time="23:25:26">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Tony\Downloads\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="TONY-PC" user="Tony" user-domain="TONY-PC" />
+  <culture-info current-culture="en-HK" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Dev\Addin\YahooAddin\YahooAddinTest\bin\Debug\YahooAddinTest.dll" executed="True" result="Success" success="True" time="0.110" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="YahooAddinTest" executed="True" result="Success" success="True" time="0.109" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Finance" executed="True" result="Success" success="True" time="0.071" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="FinancialQuoteJObjectTransformerTest" executed="True" result="Success" success="True" time="0.012" asserts="0">
+                <results>
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteJObjectTransformerTest.PrepareJObjectFromFileShouldWorkProperlyAndCreateJObjectAsExpectedFromTheMockFile" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteJObjectTransformerTest.QuoteReaderShouldReadQuoteProperlyWhenMultiSymbolsAreQuoted" executed="True" result="Success" success="True" time="0.001" asserts="6" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="FinancialQuoteUrlBuilderTest" executed="True" result="Success" success="True" time="0.048" asserts="0">
+                <results>
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.BuilderShouldGetEncodedURL" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.BuilderShouldGetExpectedEnv" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.BuilderShouldSupportSymbolList" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.BuilderShouldUseJsonFormat" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.UrlBuilderShouldAddDummySymbolEvenItIsListOfOneSymbol" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.UrlBuilderShouldBuildProperYqlWithDummySymbolWhenOnlySingleSymbolIsGiven" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="YahooAddinTest.Finance.FinancialQuoteUrlBuilderTest.UrlBuilderShouldSupportDifferentSymbol" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="Namespace" name="Utils" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="StringUtilsTest" executed="True" result="Success" success="True" time="0.015" asserts="0">
+                <results>
+                  <test-case name="YahooAddinTest.Utils.StringUtilsTest.StringUtilsShouldConvertArrayOfStringWithQuotes" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="YahooAddinTest.Utils.StringUtilsTest.StringUtilsShouldConvertSingleStringWithQuotes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

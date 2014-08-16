@@ -1,0 +1,8 @@
+C:\Dev\Addin\YahooAddin\YahooAddin\bin\Debug\YahooAddin.dll
+C:\Dev\Addin\YahooAddin\YahooAddin\bin\Debug\YahooAddin.pdb
+C:\Dev\Addin\YahooAddin\YahooAddin\obj\Debug\YahooAddin.csprojResolveAssemblyReference.cache
+C:\Dev\Addin\YahooAddin\YahooAddin\obj\Debug\YahooAddin.dll
+C:\Dev\Addin\YahooAddin\YahooAddin\obj\Debug\YahooAddin.pdb
+C:\Dev\Addin\YahooAddin\YahooAddin\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Addin\YahooAddin\YahooAddin\bin\Debug\Newtonsoft.Json.pdb
+C:\Dev\Addin\YahooAddin\YahooAddin\bin\Debug\Newtonsoft.Json.xml
